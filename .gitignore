@@ -1,2 +1,4 @@
 from_paper
 output
+*.html
+*.sla.autosave
